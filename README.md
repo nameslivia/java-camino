@@ -1,5 +1,6 @@
 # Java Camino
 
+> Project Overview & Structure
 ---
 
 ## Roadmap
@@ -35,7 +36,6 @@
 ## Notes
 
 1. 每個章節都有 `notes.md`，作為可複習的速查筆記
-2. 練習程式碼放在 `src/`，每個檔案附上清楚的註解
 3. 專案完成後在對應 README 記錄「學到什麼、遇到什麼問題」
 4. commit 訊息保持有意義，例如 `feat: add loop exercises` 或 `docs: update OOP notes`
 
