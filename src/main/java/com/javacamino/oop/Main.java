@@ -13,5 +13,9 @@ public class Main {
         for (Shape s : shapes) {
             s.describe();
         }
+
+        Duck d = new Duck("Donald");
+        d.fly();
+        d.swim();
     }
 }
