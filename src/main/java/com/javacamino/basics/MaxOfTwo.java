@@ -9,6 +9,7 @@ public class MaxOfTwo {
             return b;
         }
     }
+
 //    三元運算子（ternary operator）： a > b 成立的話回傳 a，否則回傳 b
 //    public static int max(int a, int b) {
 //        return a > b ? a : b;
