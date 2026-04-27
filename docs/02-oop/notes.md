@@ -356,11 +356,11 @@ public final void lock() { } // 子類別不可 Override 此方法
 
 ## Practice List
 
-- [ ] 建立 `Animal`、`Dog`、`Cat` 類別，Dog 和 Cat 各自 override `makeSound()`
-- [ ] 建立 `Shape`（abstract）、`Circle`、`Rectangle`，實作 `area()` 和 `perimeter()`
-- [ ] 建立 `Flyable` 和 `Swimmable` 介面，讓 `Duck` 同時實作兩者
-- [ ] 建立 `BankAccount`，用 private 封裝 balance，實作存款、提款（餘額不足印出警告）
-- [ ] 把 Animal 物件放進陣列，用多型統一呼叫 `makeSound()`
+- [x] 建立 `Animal`、`Dog`、`Cat` 類別，Dog 和 Cat 各自 override `makeSound()`
+- [x] 建立 `Shape`（abstract）、`Circle`、`Rectangle`，實作 `area()` 和 `perimeter()`
+- [x] 建立 `Flyable` 和 `Swimmable` 介面，讓 `Duck` 同時實作兩者
+- [x] 建立 `BankAccount`，用 private 封裝 balance，實作存款、提款（餘額不足印出警告）
+- [x] 把 Animal 物件放進陣列，用多型統一呼叫 `makeSound()`
 
 ---
 
