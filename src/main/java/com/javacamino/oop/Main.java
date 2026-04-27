@@ -2,7 +2,7 @@ package com.javacamino.oop;
 
 public class Main {
     public static void main(String[] args) {
-        Animal[] animals = { new Dog("Justin"), new Cat("Amber"), new Dog("Milo") };
+        Animal[] animals = { new Dog("Justin"), new Cat("Amber"), new Bird("Milo") };
 
         for (Animal a : animals) {
             a.makeSound();
